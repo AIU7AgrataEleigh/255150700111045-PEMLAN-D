@@ -11,7 +11,7 @@ public class Manager extends Pekerja {
         this.departemen=departemen;
     }
 
-    public String getDepartemen(String departemen){
+    public String getDepartemen(){
         return departemen;
     }
 
