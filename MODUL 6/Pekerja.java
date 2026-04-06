@@ -38,15 +38,15 @@ public class Pekerja extends Manusia{
         this.jumlahAnak=jumlahAnak;
     }
 
-    public double getGaji(double gaji){
+    public double getGaji(){
         return gaji;
     }
 
-    public LocalDate getTahunMasuk(LocalDate tahunMasuk){
+    public LocalDate getTahunMasuk(){
         return tahunMasuk;
     }
 
-    public int getJumlahAnak(int jumlahAnak){
+    public int getJumlahAnak(){
         return jumlahAnak;
     }
 
