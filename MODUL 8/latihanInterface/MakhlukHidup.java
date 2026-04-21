@@ -1,0 +1,9 @@
+package latihanInterface;
+
+public interface MakhlukHidup {
+    public void makan();
+    public void berjalan();
+    public void bersuara();
+    public void bernapas();
+    public void tidur();
+}
